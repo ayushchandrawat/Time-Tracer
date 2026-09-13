@@ -25,7 +25,7 @@ Time Tracer is a simple web application that allows users to track time either u
 ## Deployment
 
 Time Tracer is deployed using Versal, a free hosting service.
-Live at - https://timetracer9.netlify.app/
+Live at - https://time-tracer-vlz8.vercel.app/
 
 ## Support
 
