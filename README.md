@@ -1,3 +1,4 @@
+![Time-Tracer-Preview](/Time-Tracer.png)
 # Time Tracer
 
 Time Tracer is a simple web application that allows users to track time either until a specific future date and time or since a past date and time. It provides a countdown timer functionality where users can input their target date and time, and the application calculates and displays the remaining time or elapsed time in days, hours, minutes, and seconds.
